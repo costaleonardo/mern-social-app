@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@mernsocialapp-avwgt.mongodb.net/admin?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
